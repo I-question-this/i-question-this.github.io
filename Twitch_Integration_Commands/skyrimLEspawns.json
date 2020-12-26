@@ -4,9 +4,20 @@
   "chickens": [1, "A91A0", 3, true],
   "crabs": [10, "E4010", 3, true],
   "dragon": [40, "F80FA", 1, true],
-  "falmer_warmonger": [5, "015CB2", 1, true, "Dawnguard.esm"],
-  "giant_pack": [1000, "00023AAE", 10, true],
+  "falmers": [10, "015CB2", 1, true, "Dawnguard.esm"],
+  "giants": [20, "00023AAE", 3, true],
   "nazeems": [1, "13BBF", 5, true],
   "sabre_cats": [20, "23AB5", 3, true],
-  "wolves": [15, "23ABE", 3, true]
+  "wolves": [10, "23ABE", 3, true],
+
+  "too_many_bandits": [60, "1E79F", 12, true],
+  "too_many_bears": [60, "23A8A", 12, true],
+  "too_many_chickens": [20, "A91A0", 12, true],
+  "too_many_crabs": [40, "E4010", 12, true],
+  "too_many_dragons": [100, "F80FA", 12, true],
+  "too_many_falmers": [60, "015CB2", 12, true, "Dawnguard.esm"],
+  "too_many_giants": [60, "00023AAE", 12, true],
+  "too_many_nazeems": [20, "13BBF", 12, true],
+  "too_many_sabre_cats": [60, "23AB5", 12, true],
+  "too_many_wolves": [60, "23ABE", 12, true]
 }

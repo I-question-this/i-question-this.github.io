@@ -1,8 +1,9 @@
 {
-  "cabbage": [1, "64b3f"],
-  "cheese_wheel": [1, "33669"],
+  "cabbage": [1, "64B3F"],
+  "cheese_wheel": [1, "64B33"],
   "gleamblossom": [1, "00B097", "Dawnguard.esm"],
+  "heavy_junk": [1, "C8878"],
   "ammo_iron_arrow": [1, "0001397D"],
-  "ammo_dragonbone_arrow": [2, "0176F4", "Dawnguard.esm"],
+  "ammo_dragonbone_arrow": [1, "0176F4", "Dawnguard.esm"],
   "bucket": [1, "00012FDF"]
 }
