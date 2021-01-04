@@ -1,4 +1,0 @@
-{
-  "slow": [100, "setstage TwitchIntegrationQuest 50"],
-  "unequip": [10, "setstage TwitchIntegrationQuest 55"]
-}

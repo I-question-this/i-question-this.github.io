@@ -1,8 +1,0 @@
-{
-  "rain": [10, "0010199F"],
-  "fog": [10, "00110A235"],
-  "snow": [10, "000C88221"],
-  "ash_storm": [10, "0401D760", "Dragonborn.esm"],
-  "apocrypha": [10, "0401DFF5", "Dragonborn.esm"],
-  "soulcairnaurora": [10, "02006AEC", "Dawnguard.esm"]
-}
